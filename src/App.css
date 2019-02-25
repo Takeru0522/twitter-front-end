@@ -6,6 +6,7 @@
   width: 100px;
   height: 100px;
   background-color: grey;
+  margin: 0 auto;
 }
 
 @keyframes App-logo-spin {
